@@ -54,5 +54,4 @@ func main() {
 	//alsoJane := NewBetterUser("Jane Smith")
 
 	fmt.Println(john.FullName())
-
 }
